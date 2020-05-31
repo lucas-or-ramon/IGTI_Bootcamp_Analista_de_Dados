@@ -9,9 +9,9 @@
 - [x] Conteúdo do curso e possibilidades de carreira associadas à formação.
 - [x] Autogestão.
 ### Fundamentos:
-- [ ] Introdução à Ciência de Dados.
-- [ ] Introdução ao Big Data.
-- [ ] Pipeline da Ciência de Dados.
+- [x] Introdução à Ciência de Dados.
+- [x] Introdução ao Big Data.
+- [x] Pipeline da Ciência de Dados.
 ### Coleta e obtenção de dados:
 - [ ] Introdução à coleta de dados.
 - [ ] Coleta de dados via crawler.
